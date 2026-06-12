@@ -27,8 +27,8 @@ dependencies:
   intl: any
   json_annotation: ^4.9.0
   logger: ^2.6.2
-  material_color_utilities: ^0.11.1
-  material_symbols_icons: ^4.2874.0
+  material_color_utilities: ^0.13.0
+  material_symbols_icons: ^4.2874.2
   octo_image: ^2.1.0
   package_info_plus: ^9.0.0
   path: ^1.9.1
